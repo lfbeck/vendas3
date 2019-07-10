@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1044012040365",
+    "firebase_url": "https://vendas-342bf.firebaseio.com",
+    "project_id": "vendas-342bf",
+    "storage_bucket": "vendas-342bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044012040365:android:53c5aeebbfdf3f90",
+        "android_client_info": {
+          "package_name": "br.edu.ifsul.vendas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044012040365-5l9gvemdcaiogirqe2p79e6bb3fo6h36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsul.vendas",
+            "certificate_hash": "2b70b470899db4939db3ee8b399a9ffe5e5d24da"
+          }
+        },
+        {
+          "client_id": "1044012040365-dj66142690646oah4b104fereeq6bnbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsul.vendas",
+            "certificate_hash": "233084e9c81eb1e57df04d82916dbf946a276087"
+          }
+        },
+        {
+          "client_id": "1044012040365-pgnpav1rttphgo85r85pa6us91dgo61p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM_apA-IShRbFbak_k_MNPJ_LWXiuVy8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044012040365-pgnpav1rttphgo85r85pa6us91dgo61p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sales</string>
+    <string name="hint_senha">password</string>
+    <string name="hint_email">email</string>
+    <string name="contentDescription">Company logo</string>
+    <string name="bt_sigin">Sign in</string>
+    <string name="bt_sigup">Sign Up</string>
+    <string name="email_fail">Email not registered.</string>
+    <string name="email_already">The email address is already in use.</string>
+    <string name="signup_fail">Sign UP failed. Internet connected?</string>
+    <string name="password_fail">Password not registered.</string>
+    <string name="hint_estoque">stock</string>
+    <string name="hint_nome">name</string>
+    <string name="content_description_foto_produto">product image</string>
+    <string name="hint_valor">value</string>
+</resources>
